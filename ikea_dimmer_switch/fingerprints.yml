@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "ikea_dimmer_switch_1"
+    deviceLabel: IKEA dimmer switch
+    manufacturer: IKEA of Sweden
+    model: TRADFRI on/off switch
+    deviceProfileName: ikea_dimmer_switch

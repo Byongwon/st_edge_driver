@@ -1,0 +1,4 @@
+name: 'IKEA dimmer switch'
+packageKey: 'ikea_dimmer_switch'
+permissions:
+  zigbee: {}
